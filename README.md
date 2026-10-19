@@ -9,7 +9,7 @@
   <img src="https://media.tenor.com/ipuTozw3PXsAAAAj/pixel-cat.gif" width="130px" align="left" style="margin-right: 20px; margin-bottom: 10px;">
 
   <!-- Teks Perkenalan -->
-  <h1>Hi there, I'm ditzz-dev 👋</h1>
+  <h1>Hi there, I'm akbar2938383 👋</h1>
   <p>A passionate developer from Indonesia, focused on crafting beautiful and functional web experiences. I love turning complex problems into simple, elegant solutions.</p>
   <p><em>Currently exploring the worlds of Go and Rust!</em></p>
   
